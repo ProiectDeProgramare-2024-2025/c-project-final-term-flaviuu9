@@ -1,0 +1,7 @@
+Brand: Tesla, Model: Sedan, Price: 35000.00 EUR, Year: 2022, Chassis: BN5432
+Brand: Audi, Model: SUV, Price: 15500.00 EUR, Year: 2016, Chassis: GH5437
+Brand: Skoda, Model: Sedan, Price: 12500.00 EUR, Year: 2020, Chassis: TV6754
+Brand: BMW, Model: suv, Price: 903.00 EUR, Year: 2000, Chassis: r43fds
+Brand: BMW, Model: suv, Price: 435.00 EUR, Year: 1920, Chassis: fasjnfias
+Brand: BMW, Model: sedan, Price: 19000.00 EUR, Year: 1900, Chassis: SDJFAN8DSA
+Brand: BMW, Model: SEDAN, Price: 20000.00 EUR, Year: 2000, Chassis: GH43251
